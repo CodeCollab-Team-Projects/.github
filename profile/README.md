@@ -12,7 +12,7 @@ Este es uno de los proyectos destacados de nuestra organización. Consiste en un
 #### Repositorios
 
 - **Front-End**: [Enlace al repositorio del front-end](https://github.com/CodeCollab-Team-Projects/Front-Team-A-Libro)
-- **Back-End**: 
+- **Back-End**:  [Enlace al repositorio del back-end](https://github.com/CodeCollab-Team-Projects/Back-Team-A-Libro)
 
 ## 🚀 Tecnologías Utilizadas
 
